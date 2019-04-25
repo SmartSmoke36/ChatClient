@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sqljdbc41">
+    <CLASSES>
+      <root url="jar://D:/Program Files/sqljdbc41/sqljdbc41.jar!/" />
+      <root url="jar://E:/Downloads/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://C:/Program Files/mysql-8.0.15-winx64/mysql-connector-java-8.0.15/mysql-connector-java-8.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
